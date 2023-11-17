@@ -6,9 +6,7 @@ public class Menu
 
     public static void main(String[] args)
     {
-        while (MainMenu()) {
-
-        }
+        while (MainMenu()){}
     }
 
     // Print the menus
