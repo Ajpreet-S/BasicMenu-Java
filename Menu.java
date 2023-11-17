@@ -12,9 +12,9 @@ public class Menu
     // Print the menus
     public static boolean MainMenu()
     {
-        System.out.println("\n1. Option 1");
-        System.out.println("2. Option 2");
-        System.out.println("3. Option 3");
+        System.out.println("\n1. Phrases");
+        System.out.println("2. Learning");
+        System.out.println("3. Actions");
         System.out.println("4. Quit");
         switch(scanner.next().charAt(0)) {
             case '1':
